@@ -1,0 +1,26 @@
+2020-12-22 13:20:22.0196|ERROR|SignUpProject.Helpers.ExceptionLogFilter|System.InvalidOperationException: The context cannot be used while the model is being created. This exception may be thrown if the context is used inside the OnModelCreating method or if the same context instance is accessed by multiple threads concurrently. Note that instance members of DbContext and related classes are not guaranteed to be thread safe.
+   ב-  System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   ב-  System.Data.Entity.Internal.InternalContext.Initialize()
+   ב-  System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   ב-  System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   ב-  System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   ב-  System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   ב-  System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source, Expression`1 predicate)
+   ב-  BarberShop.DAL.UserRepository.IsUserExists(String email) ב- C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\UserRepository.cs:שורה 22
+   ב-  SignUpProject.Controllers.AuthenticaionController.SignUpCustomer(User data) ב- C:\Users\User\Desktop\חומר\Brurya\SignUpServer\SignUpProject\Controllers\AuthenticationController.cs:שורה 23
+   ב-  lambda_method(Closure , Object , Object[] )
+   ב-  System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.<>c__DisplayClass6_2.<GetExecutor>b__2(Object instance, Object[] methodParameters)
+   ב-  System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ActionExecutor.Execute(Object instance, Object[] arguments)
+   ב-  System.Web.Http.Controllers.ReflectedHttpActionDescriptor.ExecuteAsync(HttpControllerContext controllerContext, IDictionary`2 arguments, CancellationToken cancellationToken)
+--- סיום מעקב אחר ערימה ממיקום קודם שבו הוצגה התרעה על חריגה ---
+   ב-  System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ב-  System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ב-  System.Web.Http.Controllers.ApiControllerActionInvoker.<InvokeActionAsyncCore>d__1.MoveNext()
+--- סיום מעקב אחר ערימה ממיקום קודם שבו הוצגה התרעה על חריגה ---
+   ב-  System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ב-  System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ב-  System.Web.Http.Controllers.ActionFilterResult.<ExecuteAsync>d__5.MoveNext()
+--- סיום מעקב אחר ערימה ממיקום קודם שבו הוצגה התרעה על חריגה ---
+   ב-  System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   ב-  System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   ב-  System.Web.Http.Controllers.ExceptionFilterResult.<ExecuteAsync>d__6.MoveNext()
