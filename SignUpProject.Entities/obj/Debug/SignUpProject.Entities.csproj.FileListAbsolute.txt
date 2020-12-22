@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.Entities\bin\Debug\BaberShop.Entities.dll
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.Entities\bin\Debug\BaberShop.Entities.pdb
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.Entities\obj\Debug\SignUpProject.Entities.csprojAssemblyReference.cache
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.Entities\obj\Debug\SignUpProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.Entities\obj\Debug\BaberShop.Entities.dll
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.Entities\obj\Debug\BaberShop.Entities.pdb

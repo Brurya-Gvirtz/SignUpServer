@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\BarberShop.DAL.dll.config
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\BarberShop.DAL.dll
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\BarberShop.DAL.pdb
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\BaberShop.Entities.dll
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\BaberShop.Entities.pdb
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\obj\Debug\SignUpProject.DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\obj\Debug\SignUpProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\obj\Debug\SignUpProject.DAL.csproj.CopyComplete
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\obj\Debug\BarberShop.DAL.dll
+C:\Users\User\Desktop\חומר\Brurya\BarberShop\BarberShop.DAL\obj\Debug\BarberShop.DAL.pdb
